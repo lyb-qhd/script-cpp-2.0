@@ -1,0 +1,2 @@
+@echo off
+util/cr
