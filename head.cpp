@@ -1,16 +1,12 @@
 
 #include<bits/stdc++.h>
-#define u using
-#define us unsigned
-u uchar=us char;
-u ushort=us short;
-u uint=us int;
-u int64=long long;
-u uint64=us long long;
-u f128=long double;
-u str=std::string;
-#undef u
-#undef us
+using uchar=unsigned char;
+using ushort=unsigned short;
+using uint=unsigned int;
+using int64=long long;
+using uint64=unsigned long long;
+using f128=long double;
+using str=std::string;
 int main() {
 	#include "../main.cpp"
 	return 0;
